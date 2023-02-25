@@ -1,0 +1,60 @@
+html {
+    background-color: rgb(255, 237, 202);
+}
+
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    line-height: 1.2;
+    font-size: 20px;
+    background-color: rgb(255, 145, 0);
+    box-shadow: 20px 20px 10px rgb(226, 211, 211);
+    padding: 1.5rem;
+    border-radius: 2rem;
+}
+
+h1 {
+    text-align: center;
+    margin-top: 0;
+    font-size: 3rem;
+}
+
+nav li {
+    list-style: none;
+    text-align: center;
+    padding: 2rem;
+}
+
+nav ul {
+    padding-left: 0;
+}
+
+nav a {
+    text-decoration: none;
+    font-size: 1.5rem;
+}
+
+img {
+    width: 100%;
+    height: auto;
+    border-radius: 3%;
+}
+
+.home-image {
+    border-radius: 50%;
+}
+
+a {
+    color: black;
+}
+
+ol {
+    margin-bottom: 4rem;
+}
+
+ol li {
+    padding-bottom: 1.1em;
+}
